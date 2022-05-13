@@ -1,5 +1,5 @@
 <div>
-Welcome! I'm Abel Amezcua | <img align="center" height="18px" src="https://wakatime.com/badge/user/e09178a1-8663-4509-a5d2-27da3e5ec0d3.svg"/>
+Welcome! I'm Abel Amezcua | <img align="center" height="18px" src="https://wakatime.com/badge/user/dea706e8-c823-4d12-b08a-fdabcb844621.svg"/>
 </div>
 <br/>
 <div>
